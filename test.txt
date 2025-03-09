@@ -1,0 +1,18 @@
+
+npm run dev -- -p 80
+
+80
+
+npm run start:dev
+
+4000
+
+node websocket.js
+
+5000
+
+
+
+
+база данных
+psql -U postgres
